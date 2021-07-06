@@ -20,8 +20,6 @@ body{
     padding-left: 300px;
 }    
 
-
-
 #first-image{
     width: 100%;
 }
@@ -55,4 +53,25 @@ a{
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
 }
+#middle{
+    text-align: center;
+    padding: 0 250px;
+    margin-top: 100px;
+}
+.recipes{
+    width: 30%;
+    border-radius: 30px;
+    box-shadow: 0 0 20px rgb(94, 92, 88);
+    padding-left: 20px;
+    margin: 0 10px 40px 50px; 
 
+}
+.recipy{
+    width: 90%;
+    border-radius: 30px;
+    margin-left: 10px;
+    padding-top: 20px;
+}
+#food-bocks{
+    margin-left: 40px;
+}
